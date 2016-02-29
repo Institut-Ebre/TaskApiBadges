@@ -7,7 +7,7 @@
 * Liviu Coronciuc, Liviu Coronciuc
 * Alvarado Bertomeu, Adam: https://travis-ci.org/AlvaradoAdam15/tasksAPI: [![Build Status](https://travis-ci.org/AlvaradoAdam15/tasksAPI.svg?branch=master)](https://travis-ci.org/AlvaradoAdam15/tasksAPI)
 https://scrutinizer-ci.com/g/AlvaradoAdam15/tasksAPI/: [![Build Status](https://scrutinizer-ci.com/g/AlvaradoAdam15/tasksAPI/badges/build.png?b=master)](https://scrutinizer-ci.com/g/AlvaradoAdam15/tasksAPI/build-status/master)
-* Domenech Canalda, Marc
+* Domenech Canalda, Marc [![Build Status](https://travis-ci.org/markdomkan/tasksAPI.svg?branch=master)](https://travis-ci.org/markdomkan/tasksAPI) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/markdomkan/tasksAPI/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/markdomkan/tasksAPI/?branch=master)
 * Davila Bazalar, Paolo
 * Estopiña Abella,Erik
 * González Cepeda, Simón
